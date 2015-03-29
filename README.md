@@ -1,6 +1,6 @@
 # Syllabus for Applied Programing Systems
 
-* **Course:** Applied Programming Systems, senior year
+* **Course:** Applied Programming Systems, senior year 12 th graders
 * **Year:** 2014 - 2015
 * **School:** Technological School of Electronic Systems, Sofia
 * **Instructor:** Dimitar Nikolov, [email](mailto:dimitar.nikolov.tues@gmail.com)
